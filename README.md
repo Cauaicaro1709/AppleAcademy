@@ -105,7 +105,7 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 <img width="1268" alt="Captura de Tela 2024-09-23 às 13 32 19" src="https://github.com/user-attachments/assets/c0629b5b-5b1d-42d4-9a74-320a7afd976d">
 
 <h5>Vídeo do app</h5>
-<iframe src="https://drive.google.com/file/d/135L_XNPk8n4dNsBMo7pCAuDkUeecUpjv/preview" width="640" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/135L_XNPk8n4dNsBMo7pCAuDkUeecUpjv/view?usp=drivesdk" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 
 
