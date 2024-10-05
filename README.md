@@ -64,7 +64,9 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  > Figma foi usado para a criação das Telas.
+
+  > Figma foi usado para a criação dos protótipos das telas.
+
 </div>
 
 <h5>👨‍🏫 Plataforma de planejamento do App</h5>
