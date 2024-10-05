@@ -42,7 +42,8 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  > O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
+
+  >O Xcode fornece um Ecossistema Integrado, onde o desenvolvedor pode programar para multiplataformas dos dispositivos Apple (iOS, iPadOS, macOS, tvOS e watchOS), promove um Desenvolvimento Eficiente na qual com os recursos como Auto Layout e Interface Builder, o Xcode simplifica o design de interfaces responsivas e visualmente atraentes. Por fim há a Colaboração Simplificada que permite o versionamento de projetos através do Git integrado que garante uma experiência coesa, mesmo em projetos complexos.
 </div>
 
 <h5>💬 Linguagem utilizada</h5>
@@ -52,7 +53,8 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  > O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
+
+  >O motivo de usarmos o Swift como linguagem, foi por conta de atividades curriculares mas também por ser bastante intuitivo e de aprendizagem progressivamente boa, além de ser bastante superior em relação ao Objective-C.
 </div>
 
 <h5>👨‍💻 Plataforma de desenvolvimento das Telas</h5>
@@ -72,7 +74,9 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 </div>
 
 <div align="center" style="padding: 10px; background-color: #c2d4c6; border-radius: 5px; width: 50%; margin: auto; margin-bottom: 20px;">
-  > Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores.
+
+  >Usamos o Notion por motivos de organização e para facilitar o acompanhamento dos mentores.
+
 </div>
 
 <h5>Wireframe</h5>
