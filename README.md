@@ -89,14 +89,6 @@ print("Tornar o turismo mais acessível para pessoa com deficiência física.")
 
 <img width="1268" alt="Captura de Tela 2024-09-23 às 13 32 19" src="https://github.com/user-attachments/assets/c0629b5b-5b1d-42d4-9a74-320a7afd976d">
 
-<h5>🎥 Vídeo demonstrativo</h5>
-
-<div align="center">
-  <video width="50%" controls>
-    <source src="/mnt/data/RPReplay_Final1727459028.MP4" type="video/mp4">
-    Seu navegador não suporta o elemento de vídeo.
-  </video>
-</div>
 
 
 ```
